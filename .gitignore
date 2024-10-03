@@ -1,0 +1,28 @@
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Dependency directories (if you use npm for some tooling)
+node_modules/
+
+# Build directories (if you use any build tools)
+dist/
+build/
+
+# Package lock files (if you use npm or yarn for tooling)
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+*.backup
